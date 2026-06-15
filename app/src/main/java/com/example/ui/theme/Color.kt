@@ -1,0 +1,41 @@
+package com.example.ui.theme
+
+import androidx.compose.ui.graphics.Color
+
+// Light Theme Clean Minimalism Palette
+val M3LightPrimary = Color(0xFF6750A4)
+val M3LightOnPrimary = Color(0xFFFFFFFF)
+val M3LightPrimaryContainer = Color(0xFFEADDFF)
+val M3LightOnPrimaryContainer = Color(0xFF21005D)
+val M3LightSecondary = Color(0xFF625B71)
+val M3LightOnSecondary = Color(0xFFFFFFFF)
+val M3LightSecondaryContainer = Color(0xFFE8DEF8)
+val M3LightOnSecondaryContainer = Color(0xFF1D192B)
+val M3LightTertiary = Color(0xFF7D5260)
+val M3LightBackground = Color(0xFFFEF7FF)
+val M3LightOnBackground = Color(0xFF1D1B20)
+val M3LightSurface = Color(0xFFFFFFFF)
+val M3LightOnSurface = Color(0xFF1D1B20)
+val M3LightSurfaceVariant = Color(0xFFF3EDF7)
+val M3LightOnSurfaceVariant = Color(0xFF49454F)
+val M3LightOutline = Color(0xFF79747E)
+val M3LightOutlineVariant = Color(0xFFCAC4D0)
+
+// Dark Theme Clean Minimalism Palette
+val M3DarkPrimary = Color(0xFFD0BCFF)
+val M3DarkOnPrimary = Color(0xFF381E72)
+val M3DarkPrimaryContainer = Color(0xFF4F378B)
+val M3DarkOnPrimaryContainer = Color(0xFFEADDFF)
+val M3DarkSecondary = Color(0xFFCCC2DC)
+val M3DarkOnSecondary = Color(0xFF332D41)
+val M3DarkSecondaryContainer = Color(0xFF4A4458)
+val M3DarkOnSecondaryContainer = Color(0xFFE8DEF8)
+val M3DarkTertiary = Color(0xFFEFB8C8)
+val M3DarkBackground = Color(0xFF141218)
+val M3DarkOnBackground = Color(0xFFE6E1E5)
+val M3DarkSurface = Color(0xFF211F26)
+val M3DarkOnSurface = Color(0xFFE6E1E5)
+val M3DarkSurfaceVariant = Color(0xFF2B2930)
+val M3DarkOnSurfaceVariant = Color(0xFFCAC4D0)
+val M3DarkOutline = Color(0xFF938F99)
+val M3DarkOutlineVariant = Color(0xFF49454F)

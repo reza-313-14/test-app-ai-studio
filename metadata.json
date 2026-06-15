@@ -1,0 +1,6 @@
+{
+  "name": "Interval Alarm",
+  "description": "A highly robust, battery-efficient repeating alarm and notification timer that permits defining custom execution intervals and visual logging with SQLite persistence.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
